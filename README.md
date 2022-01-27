@@ -1,5 +1,7 @@
 ### Hi there I'm Kari👋
 
+I'm currently working as Research Web Analyst
+
 ```javascript
 const Kari = {
   pronouns: "she" | "her",
