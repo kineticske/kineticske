@@ -1,6 +1,6 @@
 ### Hi there I'm Kari👋
 
-I'm currently working as Research Web Analyst
+I'm currently a Data Engineer and Backend Developer
 
 ```javascript
 const Kari = {
